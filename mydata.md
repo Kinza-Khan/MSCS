@@ -1,5 +1,5 @@
 
 here is my PF Fall 2025 course.
-**thIS IS bold text**\n
-*THis is Italic Text*\n
+**thIS IS bold text**\
+*THis is Italic Text*\
 ***This is Bold and italic***
